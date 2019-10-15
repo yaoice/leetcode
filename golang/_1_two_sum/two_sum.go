@@ -1,9 +1,5 @@
 package main
 
-import (
-    "fmt"
-)
-
 /*
 解题思路: 减少算法复杂度，不用两层遍历
 */
@@ -26,5 +22,5 @@ func twoSum(nums []int, target int) []int {
 }
 
 func main() {
-    fmt.Println(twoSum([]int{1, 2},1))
+//    fmt.Println(twoSum([]int{1, 2},1))
 }

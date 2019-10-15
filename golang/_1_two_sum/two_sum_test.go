@@ -20,12 +20,6 @@ func TestTwoSum(t *testing.T) {
             []int{1, 0},
         },
         {
-            []int{1,1},
-            2,
-            []int{0, 1},
-            []int{1, 0},
-        },
-        {
             []int{1,2},
             2,
             []int{0, 1},
